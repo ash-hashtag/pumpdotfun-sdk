@@ -13,3 +13,5 @@ dist/
 
 .env
 refs/
+package-lock.json
+yarn.lock
